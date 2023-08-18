@@ -186,7 +186,10 @@ Web Application**
 
 ![](17.png)
 
-**11.  Now we have to setup the flow.**
+**11.  Now we have to setup the flow.**  
+
+
+
 ![](18.png)
 
 **for authentication and post authentication of Identity provider.**
@@ -416,6 +419,6 @@ and paste the code shown below.**
 
 ![](full.png)
 
-## 4. Reference Link
+## 7. Reference Link
 https://keycloakthemes.com/blog/how-to-setup-sign-in-with-google-using-keycloak
 https://www.keycloak.org/docs/latest/securing_apps/#_javascript_adapter
