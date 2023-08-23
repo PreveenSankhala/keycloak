@@ -35,6 +35,9 @@
 
 **e . Google Auth And FreeOTP using KeyCloak And Vue**
 One of the strong points in favour of Keycloak adoption is the fact that you can setup social signin for your application with a few clicks, no coding requirements needed. Keycloak supports out-of-the box an extensive list of social networks: Google, Github, Facebook, Linkedin, Microsoft, Twitter and many other providers. It’s even flexible enough to support the integration of any OpenId Connect or SAML 2.0 provider.
+
+## Architecture Diagram
+![](Keycloak%20.png)
   
 
 ## 5 .  Command for the setup or configuration.
