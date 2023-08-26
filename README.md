@@ -408,32 +408,27 @@ and paste the code shown below.**
     </script>
 
 
-**i . Running the application and Authenticate with Google and FreeOTP**
+-  Running the application and Authenticate with Google and FreeOTP
 
   > npm run dev
 
 ![](keen.png)
 
-**j . Install FreeOTP app from play store and scan it for first time. Input 6 digit Code**
+- Install FreeOTP app from play store and scan it for first time. Input 6 digit Code
 
 ![](free.png)
 
-**k . Successfully Logged In…**
+- Successfully Logged In...
 
 ![](full.png)
 
 ## 7. TEST CASES LIST ##
 | S.NO | Component/Tool Name | Test case | Test count | Test cases | Expected Result | Test Passed[PASS/FAIL] | Remarks |
 |----------|----------|----------|----------|----------|----------|----------|----------|
-
-
-
+Note :NA
+## Screen with pass test cases result ##
 Note :NA
 
-**Screen with pass test cases result**
-
-Note :NA
-
-## 8. Reference Link
+## 8. REFERENCE LINK
 https://keycloakthemes.com/blog/how-to-setup-sign-in-with-google-using-keycloak
 https://www.keycloak.org/docs/latest/securing_apps/#_javascript_adapter
