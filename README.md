@@ -425,8 +425,13 @@ and paste the code shown below.**
 ## 7. TEST CASES LIST ##
 | S.NO | Component/Tool Name | Test case | Test count | Test cases | Expected Result | Test Passed[PASS/FAIL] | Remarks |
 |----------|----------|----------|----------|----------|----------|----------|----------|
+
 Note :NA
+
+
 ## Screen with pass test cases result ##
+
+
 Note :NA
 
 ## 8. REFERENCE LINK
